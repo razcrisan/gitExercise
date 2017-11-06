@@ -12,7 +12,7 @@ namespace gitCloningExercise
         {
             for (int i = 1; i <= 1; i++)
             {
-                Console.WriteLine("Hello World.");
+                Console.WriteLine("Hello Cruel World.");
             }
         }
     }
